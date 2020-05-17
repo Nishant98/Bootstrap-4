@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-4",
+  "version": "1.0.0",
+  "description": "Exploring Bootstrap 4",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Nishant Nimbalkar",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
